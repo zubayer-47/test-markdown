@@ -8,7 +8,7 @@
 
 - `**auth**`
 - `**users**`
-- **`communities`**
+- `communities`
 - `**authority**`
 
 1. Sign Up:
@@ -29,8 +29,7 @@
     | Http Code | Content-Type | Response |
     | --- | --- | --- |
     | 400 | application/json | User Data related errors |
-    | 201 | application/json | {
-      "id": "8193e97f-cf41-4c8b-a55a-44d3243df724",
+    | 201 | application/json | { "id": "8193e97f-cf41-4c8b-a55a-44d3243df724",
       "fullname": "Brakus",
       "username": "gottlieb",
       "email": "fay.c9bf27e9431a@yahoo.com",
